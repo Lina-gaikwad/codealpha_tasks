@@ -42,3 +42,10 @@ codealpha_tasks-Repository/<br>
 │   └── script.js<br>
 │<br>
 └── README.md<br>
+
+---
+
+## 🔗 Live Demo
+- 📸 [Image Gallery](https://lina-gaikwad.github.io/codealpha_tasks/ImageGallery/index.html)
+- 🧮 [Calculator](https://lina-gaikwad.github.io/codealpha_tasks/Calculator/index.html)
+
