@@ -28,6 +28,8 @@
 * CSS for design<br>
 * JavaScript for functionality<br>
 
+---
+
 ## **📂 Project Structure**
 
 codealpha_tasks-Repository/<br>
@@ -35,6 +37,7 @@ codealpha_tasks-Repository/<br>
 │   ├── index.html<br>
 │   ├── style.css<br>
 │   └── script.js<br>
+│── Images
 │<br>
 │── Task2-Calculator/<br>
 │   ├── index.html<br>
