@@ -37,7 +37,7 @@ codealpha_tasks-Repository/<br>
 │   ├── index.html<br>
 │   ├── style.css<br>
 │   └── script.js<br>
-│── Images
+│── Images<br>
 │<br>
 │── Task2-Calculator/<br>
 │   ├── index.html<br>
